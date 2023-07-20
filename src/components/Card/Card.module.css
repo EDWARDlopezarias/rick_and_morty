@@ -1,0 +1,11 @@
+.card{
+    background-color: rgb(126, 117, 117);
+    height: fit-content;
+    width: fit-content;
+    margin: 2px;
+    padding: 10px;
+
+}
+.cardImage{
+    width: 150px;
+}
