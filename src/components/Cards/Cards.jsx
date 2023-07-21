@@ -2,10 +2,8 @@ import Card from '../Card/Card.jsx';
 import style from './Cards.module.css'
 
 export default function Cards({characters}) {
-
    return(
-      <div className={style.cards}>
-      
+      <div className={style.cards}>      
          {characters.map(character=>{
                return(
                <Card
